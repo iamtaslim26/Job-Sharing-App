@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "359969592964",
+    "project_id": "olxcloneapp-a8949",
+    "storage_bucket": "olxcloneapp-a8949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359969592964:android:e97d574ba9e77c2779d4d1",
+        "android_client_info": {
+          "package_name": "com.example.olx_clone_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359969592964-ecjh20aaie3jg892r3j2t50i7pi7mqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh50TDak5ySPhzkCXgZTSmNkJG7jCN2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359969592964-ecjh20aaie3jg892r3j2t50i7pi7mqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359969592964:android:a99c0cfa92408e1079d4d1",
+        "android_client_info": {
+          "package_name": "com.project.linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359969592964-ecjh20aaie3jg892r3j2t50i7pi7mqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh50TDak5ySPhzkCXgZTSmNkJG7jCN2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359969592964-ecjh20aaie3jg892r3j2t50i7pi7mqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
